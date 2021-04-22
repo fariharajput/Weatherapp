@@ -1,9 +1,7 @@
-body{
-      background: rgb(216, 214, 214);
+body {
+  background: rgb(216, 214, 214);
 }
-.icon{
-border-radius: 50%;
-margin-top: -50px;
-
-
+.icon {
+  border-radius: 50%;
+  margin-top: -50px;
 }
