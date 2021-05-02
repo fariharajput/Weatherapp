@@ -5,13 +5,13 @@
 ![](weather.jpg)
 
 
-#### Just go to `app.js` and `forecast.js` to add more fucntionalites to the app and make it more wonderfull
+#### Simply go to 'app.js' and 'forcast.js'  to add more fucntionalites to the application and make it more wonderfull 
 
-#### Feel free to change or customize as much as you want
+#### Feel allowed to change or alter however much you need 
 
-#### It sound awesome if you have a much better ideas to improve this
+#### It sound wonderful in the event that you have a vastly improved plans to improve this 
 
-#### Do contribute and share your ideas with all other developers so that they can take advantage of your customization
+#### Do contribute and impart your plans to any remaining designers with the goal that they can exploit your customization
 
 Table of Content
 ================
