@@ -134,9 +134,6 @@ we are getting the name of the city from user and passing the city name as an ar
 
 When the promise become resolved we have to update our user interface to show the details to the user.
 
-
-```
-
 In the `app.js` you can also change the weather or city details and can make the app more detailed and wonderfull.
 
 How this app's code helps you
