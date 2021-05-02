@@ -2,7 +2,7 @@
 ### A Weather Teller app that helps you to check the current weather condition of any city 
 -------------------------------------------------
 ### Visit the app by clicking this [Weather Teller](https://farihaweatherapp.netlify.app/)
-![](img/unnamed.png)
+![](weather.jpg)
 
 
 #### Just go to `app.js` and `forecast.js` to add more fucntionalites to the app and make it more wonderfull
